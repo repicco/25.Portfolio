@@ -7,6 +7,13 @@ import Airbnb from '../../img/portfolio/airbnb.jpg'
 import Atendi from '../../img/portfolio/atendi.jpg'
 import Orcamento from '../../img/portfolio/orcamento.jpg'
 import Spotify from '../../img/portfolio/spotify.jpg'
+import Financas from '../../img/portfolio/financas.jpg'
+import Museu from '../../img/portfolio/museu.jpg'
+import Noticias from '../../img/portfolio/noticias.jpg'
+import Hotel from '../../img/portfolio/hotel.jpg'
+import Tecblog from '../../img/portfolio/tecblog.jpg'
+import Parallax from '../../img/portfolio/parallax.jpg'
+
 
 function PortfolioHeader(props) {
     return (
@@ -59,11 +66,47 @@ function PortfolioHeader(props) {
                     link='https://spotify-fake.netlify.com'
                 />
             </div>
+            <div className='row'>
+                <Portfolio
+                    title='Ex. Parallax'
+                    img={Parallax}
+                    techs='Html + CSS'
+                    link=''
+                />
+                <Portfolio
+                    title='Finanças Fake'
+                    img={Financas}
+                    techs='Bootstrap'
+                    link='https://financeirofake.netlify.com/finans/'
+                />
+                <Portfolio
+                    title='Museu Fake'
+                    img={Museu}
+                    techs='HTML + CSS'
+                    link='https://museufake.netlify.com/museunacional/'
+                />
 
-
-
-
-            
+            </div>
+            <div className='row'>
+                <Portfolio
+                    title='Noticias Fake'
+                    img={Noticias}
+                    techs='HTML + CSS'
+                    link='https://newfake.netlify.com/noticiascidade/index.html'
+                />
+                <Portfolio
+                    title='Hotel Fake'
+                    img={Hotel}
+                    techs='HTML + CSS'
+                    link='https://hotelfake.netlify.com/chalehotel/'
+                />
+                <Portfolio
+                    title='Teblog Fake'
+                    img={Tecblog}
+                    techs='HTML + CSS'
+                    link=''
+                />
+            </div>            
         </div>
     )
 }
