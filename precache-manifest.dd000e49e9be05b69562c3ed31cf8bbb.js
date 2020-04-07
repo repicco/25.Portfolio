@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb2bd70d104b7eb3ade918f713f99ae5",
+    "revision": "607e2202e98d0a651b16e875e2c79eca",
     "url": "/index.html"
   },
   {
-    "revision": "9d19d3a6f707b02e952b",
-    "url": "/static/css/main.b9c8a2b3.chunk.css"
+    "revision": "3a4a076c93fc8d1888f1",
+    "url": "/static/css/main.31ff56e6.chunk.css"
   },
   {
-    "revision": "394ff2f01e6fe3b9c2e9",
-    "url": "/static/js/2.14b3ee2f.chunk.js"
+    "revision": "e495d4d641f41fb79513",
+    "url": "/static/js/2.e840e7ee.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.14b3ee2f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e840e7ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d19d3a6f707b02e952b",
-    "url": "/static/js/main.11b11888.chunk.js"
+    "revision": "3a4a076c93fc8d1888f1",
+    "url": "/static/js/main.d9197d33.chunk.js"
   },
   {
     "revision": "5284eec07972ace79c95",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Back.11880156.png"
   },
   {
-    "revision": "542d151bb4d598e2be796fb0a5ca24bb",
-    "url": "/static/media/Renato.542d151b.png"
+    "revision": "c032fc0800b3fd81e496d814302fb52c",
+    "url": "/static/media/Renato.c032fc08.jpg"
   },
   {
     "revision": "d98a919d4f89c3d3f8b99929cf44d924",
@@ -38,6 +38,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4d9c59d57be54f8b6e05773ec2326441",
     "url": "/static/media/atendi.4d9c59d5.jpg"
+  },
+  {
+    "revision": "4f759f83b90604a842d3ce60d9329ec9",
+    "url": "/static/media/basico.4f759f83.jpg"
+  },
+  {
+    "revision": "8b50d1862015dbb9ba371a0364756c45",
+    "url": "/static/media/bonus.8b50d186.jpg"
   },
   {
     "revision": "c7ef1d9523b5921eb1fa07adda0d4444",
@@ -72,11 +80,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/parallax.8f54895b.jpg"
   },
   {
-    "revision": "f8c9b0f077303415fcc559639d8e0050",
-    "url": "/static/media/spotify.f8c9b0f0.jpg"
+    "revision": "8a9c61eda840fe12204d82bb231bec28",
+    "url": "/static/media/profile.8a9c61ed.jpg"
   },
   {
-    "revision": "8df1fbe872b56a9a68cd7dd9a29887bc",
-    "url": "/static/media/tecblog.8df1fbe8.jpg"
+    "revision": "f8c9b0f077303415fcc559639d8e0050",
+    "url": "/static/media/spotify.f8c9b0f0.jpg"
   }
 ]);

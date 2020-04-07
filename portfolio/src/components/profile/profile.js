@@ -1,5 +1,5 @@
 import React from 'react'
-import Foto from '../../img/Renato.png'
+import Foto from '../../img/Renato.jpg'
 import logo from '../../img/LogoRenatoPicco.png'
 
 function Profile() {

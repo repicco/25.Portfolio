@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9c8a2b3.chunk.css",
-    "main.js": "/static/js/main.11b11888.chunk.js",
-    "main.js.map": "/static/js/main.11b11888.chunk.js.map",
+    "main.css": "/static/css/main.31ff56e6.chunk.css",
+    "main.js": "/static/js/main.d9197d33.chunk.js",
+    "main.js.map": "/static/js/main.d9197d33.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
-    "static/js/2.14b3ee2f.chunk.js": "/static/js/2.14b3ee2f.chunk.js",
-    "static/js/2.14b3ee2f.chunk.js.map": "/static/js/2.14b3ee2f.chunk.js.map",
+    "static/js/2.e840e7ee.chunk.js": "/static/js/2.e840e7ee.chunk.js",
+    "static/js/2.e840e7ee.chunk.js.map": "/static/js/2.e840e7ee.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ee6095e812a13d9b516f95481e61b2d0.js": "/precache-manifest.ee6095e812a13d9b516f95481e61b2d0.js",
+    "precache-manifest.dd000e49e9be05b69562c3ed31cf8bbb.js": "/precache-manifest.dd000e49e9be05b69562c3ed31cf8bbb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b9c8a2b3.chunk.css.map": "/static/css/main.b9c8a2b3.chunk.css.map",
-    "static/js/2.14b3ee2f.chunk.js.LICENSE.txt": "/static/js/2.14b3ee2f.chunk.js.LICENSE.txt",
+    "static/css/main.31ff56e6.chunk.css.map": "/static/css/main.31ff56e6.chunk.css.map",
+    "static/js/2.e840e7ee.chunk.js.LICENSE.txt": "/static/js/2.e840e7ee.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Back.11880156.png",
-    "static/media/Renato.png": "/static/media/Renato.542d151b.png",
+    "static/media/Renato.jpg": "/static/media/Renato.c032fc08.jpg",
     "static/media/airbnb.jpg": "/static/media/airbnb.d98a919d.jpg",
     "static/media/atendi.jpg": "/static/media/atendi.4d9c59d5.jpg",
+    "static/media/basico.jpg": "/static/media/basico.4f759f83.jpg",
+    "static/media/bonus.jpg": "/static/media/bonus.8b50d186.jpg",
     "static/media/churras.jpg": "/static/media/churras.c7ef1d95.jpg",
     "static/media/financas.jpg": "/static/media/financas.1c430552.jpg",
     "static/media/hotel.jpg": "/static/media/hotel.b78b6872.jpg",
@@ -24,13 +26,13 @@
     "static/media/noticias.jpg": "/static/media/noticias.6c4ea343.jpg",
     "static/media/orcamento.jpg": "/static/media/orcamento.006372ce.jpg",
     "static/media/parallax.jpg": "/static/media/parallax.8f54895b.jpg",
-    "static/media/spotify.jpg": "/static/media/spotify.f8c9b0f0.jpg",
-    "static/media/tecblog.jpg": "/static/media/tecblog.8df1fbe8.jpg"
+    "static/media/profile.jpg": "/static/media/profile.8a9c61ed.jpg",
+    "static/media/spotify.jpg": "/static/media/spotify.f8c9b0f0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ceaf4b5f.js",
-    "static/js/2.14b3ee2f.chunk.js",
-    "static/css/main.b9c8a2b3.chunk.css",
-    "static/js/main.11b11888.chunk.js"
+    "static/js/2.e840e7ee.chunk.js",
+    "static/css/main.31ff56e6.chunk.css",
+    "static/js/main.d9197d33.chunk.js"
   ]
 }

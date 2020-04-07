@@ -1,6 +1,7 @@
 import React from 'react'
 import Portfolio from '../portfolio/portfolio'
 
+import Profile from '../../img/portfolio/profile.jpg'
 import Churras from '../../img/portfolio/churras.jpg'
 import Mercado from '../../img/portfolio/mercado.jpg'
 import Airbnb from '../../img/portfolio/airbnb.jpg'
@@ -11,7 +12,6 @@ import Financas from '../../img/portfolio/financas.jpg'
 import Museu from '../../img/portfolio/museu.jpg'
 import Noticias from '../../img/portfolio/noticias.jpg'
 import Hotel from '../../img/portfolio/hotel.jpg'
-import Tecblog from '../../img/portfolio/tecblog.jpg'
 import Parallax from '../../img/portfolio/parallax.jpg'
 
 
@@ -28,6 +28,12 @@ function PortfolioHeader(props) {
 
             <div className="row">
                 <Portfolio
+                    title='Profile'
+                    img={Profile}
+                    techs='Materialize + React.JS'
+                    link=''
+                />
+                <Portfolio
                     title='Cálculo de Churrasco'
                     img={Churras}
                     techs='Bootstrap + Javascript (Lógica)'
@@ -39,14 +45,14 @@ function PortfolioHeader(props) {
                     techs='Bootstrap'
                     link='https://mercadofoodservice.net.br/'
                 />
+            </div>
+            <div className='row'>
                 <Portfolio
-                    title='AirBNB Fake'
+                    title='AirBNB Layout'
                     img={Airbnb}
                     techs='Bootstrap + Javascript (consumo de API)'
                     link='https://airbnbfake.netlify.com'
                 />
-            </div>
-            <div className='row'>
                 <Portfolio
                     title='LP Atendimento Digital'
                     img={Atendi}
@@ -57,54 +63,47 @@ function PortfolioHeader(props) {
                     title='App Orçamento Web'
                     img={Orcamento}
                     techs='Bootstrap + JavaScript (Lógica Es6 + Babel)'
-                    link='https://orcamentofake.netlify.com'
-                />
-                <Portfolio
-                    title='Spotify Fake'
-                    img={Spotify}
-                    techs='Bootstrap'
-                    link='https://spotify-fake.netlify.com'
+                    link='https://orcamentofake.netlify.com/apporcamento/'
                 />
             </div>
             <div className='row'>
                 <Portfolio
-                    title='Ex. Parallax'
+                    title='Spotify Layout'
+                    img={Spotify}
+                    techs='Bootstrap'
+                    link='https://spotify-fake.netlify.com'
+                />
+                <Portfolio
+                    title='Parallax Layout'
                     img={Parallax}
                     techs='Html + CSS'
                     link='https://parallaxex.netlify.com/'
                 />
                 <Portfolio
-                    title='Finanças Fake'
+                    title='Finanças Layout'
                     img={Financas}
                     techs='Bootstrap'
                     link='https://financeirofake.netlify.com/finans/'
                 />
+            </div>
+            <div className='row'>
                 <Portfolio
-                    title='Museu Fake'
+                    title='Museu Layout'
                     img={Museu}
                     techs='HTML + CSS'
                     link='https://museufake.netlify.com/museunacional/'
                 />
-
-            </div>
-            <div className='row'>
                 <Portfolio
-                    title='Noticias Fake'
+                    title='Noticias Layout'
                     img={Noticias}
                     techs='HTML + CSS'
                     link='https://newfake.netlify.com/noticiascidade/index.html'
                 />
                 <Portfolio
-                    title='Hotel Fake'
+                    title='Hotel Layout'
                     img={Hotel}
                     techs='HTML + CSS'
                     link='https://hotelfake.netlify.com/chalehotel/'
-                />
-                <Portfolio
-                    title='Teblog Fake'
-                    img={Tecblog}
-                    techs='HTML + CSS'
-                    link='https://tecblogfake.netlify.com/tecblog/'
                 />
             </div>            
         </div>

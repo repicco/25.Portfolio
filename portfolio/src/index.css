@@ -36,6 +36,11 @@ nav {
   color: #000;
 }
 
+/* Perfil */
+#img_basic {
+  padding-bottom: 10px;
+}
+
 /* Profile */
 .img_logo {
   width: 100%;
@@ -59,5 +64,8 @@ nav {
   width: 90%;
   margin-left: 5%;
 }
+
+
+
 
 
