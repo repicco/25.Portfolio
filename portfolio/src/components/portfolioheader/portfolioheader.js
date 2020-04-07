@@ -71,7 +71,7 @@ function PortfolioHeader(props) {
                     title='Ex. Parallax'
                     img={Parallax}
                     techs='Html + CSS'
-                    link=''
+                    link='https://parallaxex.netlify.com/'
                 />
                 <Portfolio
                     title='Finanças Fake'
@@ -104,7 +104,7 @@ function PortfolioHeader(props) {
                     title='Teblog Fake'
                     img={Tecblog}
                     techs='HTML + CSS'
-                    link=''
+                    link='https://tecblogfake.netlify.com/tecblog/'
                 />
             </div>            
         </div>

@@ -8,7 +8,7 @@ function Perfil() {
                     <div className='col s12 card-title center-align'>
                         <h2>Habilidades</h2>
                     </div>
-                    <div className='col s6'>
+                    <div className='col s12 m6'>
                         <h4>Intermediário</h4>
                         <ul>
                             <li>HTML5</li>
@@ -20,7 +20,7 @@ function Perfil() {
                         </ul>
                         <br/>
                     </div>
-                    <div className='col s6'>
+                    <div className='col s12 m6'>
                     <h4>Básico</h4>
                         <ul>
                             <li>ReactJS</li>
