@@ -90,17 +90,6 @@ nav {
   margin: 0 20px 20px 20px;
 }
 
-
-.icon_git {
-  font-size: 96px;
-  margin-right: 10px;
-  color: #000;
-}
-
-.icon_git:hover {
-  color: #fa0000;
-}
-
 .icon_linkedin {
   font-size: 96px;
   color: blue;
@@ -111,7 +100,7 @@ nav {
 }
 
 .icon_whatsapp {
-  font-size: 80px;
+  font-size: 96px;
   color: green;
 }
 

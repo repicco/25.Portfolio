@@ -10,8 +10,7 @@ function Contatos() {
                         <a target='_blank' rel="noopener noreferrer"  href='https://www.linkedin.com/in/repicco/'><i class="fab fa-linkedin icon_linkedin"></i></a>
                     </div>
                     <div className='col s12 m4 center-align'>
-                        <i class="fab fa-whatsapp-square icon_whatsapp"></i>
-                        <p>+55 11 98494 4825</p>
+                        <a target='_blank' rel="noopener noreferrer" href='https://wa.me/5511984944825'><i class="fab fa-whatsapp-square icon_whatsapp"></i></a>
                     </div>
                 </div>
             </div>
