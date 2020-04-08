@@ -17,6 +17,15 @@ code {
 }
 
 /* Header */
+
+#header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1;
+}
+
 .bgheader {
   background: linear-gradient(180deg, #000000 80.22%, #F51414 100%);
 }
@@ -42,6 +51,10 @@ nav {
 }
 
 /* Profile */
+#profile {
+  margin-top: 50px;
+}
+
 .img_logo {
   width: 100%;
 }
@@ -51,6 +64,12 @@ nav {
 }
 
 /* Portfolio */
+
+#portfolio {
+  margin-top: 50px;
+}
+
+
 #card_port {
   border: 2px solid #fff;
 }
@@ -64,6 +83,38 @@ nav {
   width: 90%;
   margin-left: 5%;
 }
+
+/* Contatos */
+
+#card_contatos {
+  margin: 0 20px 20px 20px;
+}
+
+
+.icon_git {
+  font-size: 96px;
+  margin-right: 10px;
+  color: #000;
+}
+
+.icon_git:hover {
+  color: #fa0000;
+}
+
+.icon_linkedin {
+  font-size: 96px;
+  color: blue;
+}
+
+.icon_linkedin:hover {
+  color: #fa0000;
+}
+
+.icon_whatsapp {
+  font-size: 80px;
+  color: green;
+}
+
 
 
 

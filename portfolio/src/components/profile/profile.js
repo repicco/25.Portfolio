@@ -4,7 +4,7 @@ import logo from '../../img/LogoRenatoPicco.png'
 
 function Profile() {
     return (
-        <div className='container'>
+        <div id='profile' className='container'>
                 <div className='card blue-grey lighten-4'>
                     <div className='row card-content'>
                         <div className='col s8 m4 offset-m3 right-align'>

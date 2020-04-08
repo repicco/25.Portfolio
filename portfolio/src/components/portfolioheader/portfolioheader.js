@@ -17,7 +17,7 @@ import Parallax from '../../img/portfolio/parallax.jpg'
 
 function PortfolioHeader(props) {
     return (
-        <div className='container'>
+        <div id='portfolio' className='container'>
             <div className='row'>
                 <div className='col s12'>
                     <div className='card blue-grey lighten-4 center-align'>

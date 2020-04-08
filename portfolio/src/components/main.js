@@ -4,6 +4,7 @@ import Header  from './header/header';
 import Profile from './profile/profile';
 import Perfil from './perfil/perfil';
 import PortfolioHeader from './portfolioheader/portfolioheader';
+import Contatos from './contatos/contatos'
 
 function Main() {
     return (
@@ -11,7 +12,8 @@ function Main() {
             <Header/>
             <Profile/>
             <Perfil/>
-            <PortfolioHeader/>            
+            <PortfolioHeader/>  
+            <Contatos/>          
         </div>
     )
 }
