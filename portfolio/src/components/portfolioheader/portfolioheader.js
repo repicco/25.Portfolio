@@ -10,9 +10,9 @@ import Orcamento from '../../img/portfolio/orcamento.jpg'
 import Spotify from '../../img/portfolio/spotify.jpg'
 import Financas from '../../img/portfolio/financas.jpg'
 import Museu from '../../img/portfolio/museu.jpg'
-import Noticias from '../../img/portfolio/noticias.jpg'
-import Hotel from '../../img/portfolio/hotel.jpg'
 import Parallax from '../../img/portfolio/parallax.jpg'
+import Poupe from '../../img/portfolio/poupedinheiro.jpg'
+import Biscoito from '../../img/portfolio/biscoito.jpg'
 
 
 function PortfolioHeader(props) {
@@ -34,6 +34,21 @@ function PortfolioHeader(props) {
                     link=''
                 />
                 <Portfolio
+                    title='Biscoito da Sorte'
+                    img={Biscoito}
+                    techs='Materialize + React.JS (Lógica)'
+                    link='https://biscoitosorte.netlify.com/'
+                />
+                <Portfolio
+                    title='Poupar Dinheiro'
+                    img={Poupe}
+                    techs='Materialize + React.JS (Lógica)'
+                    link='https://originfinance.netlify.com/'
+                />
+
+            </div>
+            <div className='row'>
+                <Portfolio
                     title='Cálculo de Churrasco'
                     img={Churras}
                     techs='Bootstrap + Javascript (Lógica)'
@@ -45,14 +60,14 @@ function PortfolioHeader(props) {
                     techs='Bootstrap'
                     link='https://mercadofoodservice.net.br/'
                 />
-            </div>
-            <div className='row'>
                 <Portfolio
                     title='AirBNB Layout'
                     img={Airbnb}
                     techs='Bootstrap + Javascript (consumo de API)'
                     link='https://airbnbfake.netlify.com'
                 />
+            </div>
+            <div className='row'>
                 <Portfolio
                     title='LP Atendimento Digital'
                     img={Atendi}
@@ -65,14 +80,14 @@ function PortfolioHeader(props) {
                     techs='Bootstrap + JavaScript (Lógica Es6 + Babel)'
                     link='https://orcamentofake.netlify.com/apporcamento/'
                 />
-            </div>
-            <div className='row'>
                 <Portfolio
                     title='Spotify Layout'
                     img={Spotify}
                     techs='Bootstrap'
                     link='https://spotify-fake.netlify.com'
                 />
+            </div>
+            <div className='row'>
                 <Portfolio
                     title='Parallax Layout'
                     img={Parallax}
@@ -85,25 +100,11 @@ function PortfolioHeader(props) {
                     techs='Bootstrap'
                     link='https://financeirofake.netlify.com/finans/'
                 />
-            </div>
-            <div className='row'>
                 <Portfolio
                     title='Museu Layout'
                     img={Museu}
                     techs='HTML + CSS'
                     link='https://museufake.netlify.com/museunacional/'
-                />
-                <Portfolio
-                    title='Noticias Layout'
-                    img={Noticias}
-                    techs='HTML + CSS'
-                    link='https://newfake.netlify.com/noticiascidade/index.html'
-                />
-                <Portfolio
-                    title='Hotel Layout'
-                    img={Hotel}
-                    techs='HTML + CSS'
-                    link='https://hotelfake.netlify.com/chalehotel/'
                 />
             </div>            
         </div>
