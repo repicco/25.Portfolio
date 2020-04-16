@@ -1,37 +1,37 @@
 {
   "files": {
     "main.css": "/static/css/main.568d3022.chunk.css",
-    "main.js": "/static/js/main.53d147f0.chunk.js",
-    "main.js.map": "/static/js/main.53d147f0.chunk.js.map",
+    "main.js": "/static/js/main.c58a6440.chunk.js",
+    "main.js.map": "/static/js/main.c58a6440.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
     "static/js/2.70b56940.chunk.js": "/static/js/2.70b56940.chunk.js",
     "static/js/2.70b56940.chunk.js.map": "/static/js/2.70b56940.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6cfc83561e17f0dc6206a7bf1c1f39c4.js": "/precache-manifest.6cfc83561e17f0dc6206a7bf1c1f39c4.js",
+    "precache-manifest.495bc04a698cca5aa9f86c7821b421c9.js": "/precache-manifest.495bc04a698cca5aa9f86c7821b421c9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.568d3022.chunk.css.map": "/static/css/main.568d3022.chunk.css.map",
     "static/js/2.70b56940.chunk.js.LICENSE.txt": "/static/js/2.70b56940.chunk.js.LICENSE.txt",
     "static/media/Renato.jpg": "/static/media/Renato.ab9a7a26.jpg",
-    "static/media/airbnb.jpg": "/static/media/airbnb.d3a57eef.jpg",
-    "static/media/atendi.jpg": "/static/media/atendi.f5cb62b2.jpg",
+    "static/media/airbnb.jpg": "/static/media/airbnb.61889fed.jpg",
+    "static/media/atendi.jpg": "/static/media/atendi.6a6cd632.jpg",
     "static/media/basico.jpg": "/static/media/basico.4f759f83.jpg",
     "static/media/biscoito.jpg": "/static/media/biscoito.4ff4ac4b.jpg",
     "static/media/bonus.jpg": "/static/media/bonus.8b50d186.jpg",
-    "static/media/churras.jpg": "/static/media/churras.f8923f01.jpg",
-    "static/media/financas.jpg": "/static/media/financas.366ea949.jpg",
-    "static/media/mercado.jpg": "/static/media/mercado.66682564.jpg",
-    "static/media/museu.jpg": "/static/media/museu.4f0fea53.jpg",
-    "static/media/orcamento.jpg": "/static/media/orcamento.842a7f4a.jpg",
-    "static/media/parallax.jpg": "/static/media/parallax.8cea0fbf.jpg",
-    "static/media/poupedinheiro.jpg": "/static/media/poupedinheiro.af81dab8.jpg",
+    "static/media/churras.jpg": "/static/media/churras.fe5c4cab.jpg",
+    "static/media/financas.jpg": "/static/media/financas.c1ec1449.jpg",
+    "static/media/mercado.jpg": "/static/media/mercado.414193a0.jpg",
+    "static/media/museu.jpg": "/static/media/museu.19eb56df.jpg",
+    "static/media/orcamento.jpg": "/static/media/orcamento.c199e519.jpg",
+    "static/media/parallax.jpg": "/static/media/parallax.82a5215e.jpg",
+    "static/media/poupedinheiro.jpg": "/static/media/poupedinheiro.41a5a477.jpg",
     "static/media/profile.jpg": "/static/media/profile.202b592d.jpg",
-    "static/media/spotify.jpg": "/static/media/spotify.3a9c816c.jpg"
+    "static/media/spotify.jpg": "/static/media/spotify.7ec88884.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ceaf4b5f.js",
     "static/js/2.70b56940.chunk.js",
     "static/css/main.568d3022.chunk.css",
-    "static/js/main.53d147f0.chunk.js"
+    "static/js/main.c58a6440.chunk.js"
   ]
 }
