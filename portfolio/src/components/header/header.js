@@ -37,9 +37,9 @@ class Header extends Component {
                         <nav id={this.state.btnstate} className='col m12 l8 offset-l1'>
                             <div className='nav-wrapper'>                        
                                 <ul id='ul_btn' className='right'>
-                                    <li className='btn'><a href='/'>Perfil</a></li>
-                                    <li className='btn'><a href='#portfolio'>Portfolio</a></li>
-                                    <li className='btn'><a href='#contatos'>Contatos</a></li>
+                                    <a href='/'><li className='btn'>Perfil</li></a>
+                                    <a href='#portfolio'><li className='btn'>Portfolio</li></a>
+                                    <a href='#contatos'><li className='btn'>Contatos</li></a>
                                 </ul>
                             </div>
                         </nav>
