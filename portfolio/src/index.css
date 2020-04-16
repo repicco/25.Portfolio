@@ -76,6 +76,14 @@ nav {
   }
 }
 
+@media (max-width: 447px) {
+  #ul_btn {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+  }
+}
+
 
 .btn {
   background-color: #000;
