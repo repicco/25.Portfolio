@@ -5,10 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url('./img/Back.png'),
-    url('./img/ruido.png'),
-    linear-gradient(50deg,#616161,#000);
-    background-attachment: fixed;
+  background: #9e9e9e;
 }
 
 code {

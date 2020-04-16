@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2c2b78f.chunk.css",
+    "main.css": "/static/css/main.28e3faa9.chunk.css",
     "main.js": "/static/js/main.16615fdf.chunk.js",
     "main.js.map": "/static/js/main.16615fdf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
@@ -8,11 +8,10 @@
     "static/js/2.e840e7ee.chunk.js": "/static/js/2.e840e7ee.chunk.js",
     "static/js/2.e840e7ee.chunk.js.map": "/static/js/2.e840e7ee.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bdcf1cba5e970b8ec5597d467cb0aa22.js": "/precache-manifest.bdcf1cba5e970b8ec5597d467cb0aa22.js",
+    "precache-manifest.e292b8820cfca82ed52f5a7e83228369.js": "/precache-manifest.e292b8820cfca82ed52f5a7e83228369.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c2c2b78f.chunk.css.map": "/static/css/main.c2c2b78f.chunk.css.map",
+    "static/css/main.28e3faa9.chunk.css.map": "/static/css/main.28e3faa9.chunk.css.map",
     "static/js/2.e840e7ee.chunk.js.LICENSE.txt": "/static/js/2.e840e7ee.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Back.11880156.png",
     "static/media/Renato.jpg": "/static/media/Renato.c032fc08.jpg",
     "static/media/airbnb.jpg": "/static/media/airbnb.d98a919d.jpg",
     "static/media/atendi.jpg": "/static/media/atendi.4d9c59d5.jpg",
@@ -32,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.ceaf4b5f.js",
     "static/js/2.e840e7ee.chunk.js",
-    "static/css/main.c2c2b78f.chunk.css",
+    "static/css/main.28e3faa9.chunk.css",
     "static/js/main.16615fdf.chunk.js"
   ]
 }
