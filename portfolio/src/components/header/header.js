@@ -7,6 +7,7 @@ class Header extends Component {
         super(props)
         this.state = {
             btnstate: 'menu_hide',
+            btnimage: "fas fa-chevron-circle-down",
         }
         this.alterabotao = this.alterabotao.bind(this)
     }
@@ -16,8 +17,10 @@ class Header extends Component {
 
         if(state.btnstate === 'menu_hide') {
             state.btnstate = 'menu_show'
+            state.btnimage = "fas fa-minus-circle"
         } else {
             state.btnstate = 'menu_hide'
+            state.btnimage = "fas fa-chevron-circle-down"
         }
         
         this.setState(state)
@@ -32,18 +35,17 @@ class Header extends Component {
                             <img alt='logo' className='img_logo responsive-img' src={logo}></img>
                         </div>
                         <div id='div_btnmenu' className='col s1 offset-s4 offset-m6 btn_menu'>
-                            <button onClick={this.alterabotao} id='btn_menu'>&#9776;</button>
+                            <button onClick={this.alterabotao} id='btn_menu'><i id='btn_bar' className={this.state.btnimage}></i></button>
                         </div>
                         <nav id={this.state.btnstate} className='col m12 l8 offset-l1'>
                             <div className='nav-wrapper'>                        
                                 <ul id='ul_btn' className='right'>
-                                    <a href='/'><li className='btn'>Perfil</li></a>
-                                    <a href='#portfolio'><li className='btn'>Portfolio</li></a>
-                                    <a href='#contatos'><li className='btn'>Contatos</li></a>
+                                    <a href='/'><li className='btn btn_select'>Perfil</li></a>
+                                    <a href='#portfolio'><li className='btn btn_select'>Portfolio</li></a>
+                                    <a href='#contatos'><li className='btn btn_select'>Contatos</li></a>
                                 </ul>
                             </div>
                         </nav>
-    
                     </div>
                 </div>
             </div>
