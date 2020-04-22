@@ -1,0 +1,21 @@
+#card_contatos {
+    margin: 0 20px 20px 20px;
+  }
+  
+  .icon_linkedin {
+    font-size: 96px;
+    color: blue;
+  }
+  
+  .icon_linkedin:hover {
+    color: #fa0000;
+  }
+  
+  .icon_whatsapp {
+    font-size: 96px;
+    color: green;
+  }
+  
+  .icon_whatsapp:hover {
+    color: #fa0000;
+  }

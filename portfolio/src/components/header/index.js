@@ -1,5 +1,6 @@
-
 import React, { Component } from 'react'
+import './style.css'
+
 import logo from '../../img/LogoRenatoPiccoBr.png'
 
 class Header extends Component {
@@ -40,7 +41,7 @@ class Header extends Component {
                         <nav id={this.state.btnstate} className='col m12 l8 offset-l1'>
                             <div className='nav-wrapper'>                        
                                 <ul id='ul_btn' className='right'>
-                                    <a href='/'><li className='btn btn_select'>Perfil</li></a>
+                                    <a href='#profile'><li className='btn btn_select'>Perfil</li></a>
                                     <a href='#portfolio'><li className='btn btn_select'>Portfolio</li></a>
                                     <a href='#contatos'><li className='btn btn_select'>Contatos</li></a>
                                 </ul>

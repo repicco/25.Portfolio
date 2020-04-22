@@ -1,11 +1,19 @@
 import React from 'react';
 
-import Main from './components/main'
+import Header  from './components/header';
+import Profile from './components/profile';
+import Skills from './components/skills';
+import Portfolio from './components/portfolio';
+import Contatos from './components/contatos';
 
 function App() {
   return (
     <div>
-        <Main/>
+        <Header/>
+        <Profile/>
+        <Skills/>
+        <Portfolio/>  
+        <Contatos/>    
     </div>
   );
 }

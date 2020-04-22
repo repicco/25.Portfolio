@@ -1,5 +1,7 @@
 import React from 'react'
-import Portfolio from '../portfolio/portfolio'
+import './style.css'
+
+import Portfolio from './portfolioItem'
 
 import Edwcontabil from '../../img/portfolio/edwcontabil.jpg'
 import Churras from '../../img/portfolio/churras.jpg'

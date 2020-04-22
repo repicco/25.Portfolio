@@ -5,7 +5,7 @@ function Portfolio(props) {
                 <div className="col s12 m4">
                     <div id='card_port' className="card blue-grey lighten-4 center-align">
                         <div className="card-image">
-                            <a target='_blank' rel="noopener noreferrer" href={props.link}><img alt={props.title} src={props.img}></img></a> 
+                            <a href={props.link} target='_blank' rel="noopener noreferrer" ><img alt={props.title} src={props.img}></img></a> 
                         </div>
                         <div className="card-content card_text">
                             <h4>{props.title}</h4>

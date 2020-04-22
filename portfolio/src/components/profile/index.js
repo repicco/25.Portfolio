@@ -1,4 +1,6 @@
 import React from 'react'
+import './style.css'
+
 import Foto from '../../img/Renato.jpg'
 import logo from '../../img/LogoRenatoPicco.png'
 
