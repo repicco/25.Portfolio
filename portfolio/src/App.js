@@ -1,10 +1,10 @@
 import React from 'react';
 
-import Header  from './components/header';
-import Profile from './components/profile';
-import Skills from './components/skills';
-import Portfolio from './components/portfolio';
-import Contatos from './components/contatos';
+import Header  from './components/1.header';
+import Profile from './components/2.profile';
+import Skills from './components/3.skills';
+import Portfolio from './components/4.portfolio';
+import Contatos from './components/5.contatos';
 
 function App() {
   return (
