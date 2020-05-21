@@ -10,11 +10,11 @@ import Airbnb from '../../img/portfolio/airbnb.jpg'
 import Atendi from '../../img/portfolio/atendi.jpg'
 import Spotify from '../../img/portfolio/spotify.jpg'
 import Poupe from '../../img/portfolio/poupedinheiro.jpg'
-import Biscoito from '../../img/portfolio/biscoito.jpg'
 import Cronometro from '../../img/portfolio/cronometro.jpg'
 import Filmes from '../../img/portfolio/filmes.jpg'
 import Aulaingles from '../../img/portfolio/aulaingles.jpg'
 import Petstore from '../../img/portfolio/petstore.jpg'
+import Blog from '../../img/portfolio/blog.jpg'
 
 
 function PortfolioHeader(props) {
@@ -30,6 +30,12 @@ function PortfolioHeader(props) {
 
             <div className="row">
                 <Portfolio
+                    title='Blog Programador'
+                    img={Blog}
+                    techs='Flexbox + ReactJS'
+                    link='https://blogdev.netlify.app/'
+                />
+                <Portfolio
                     title='LP Pet Store'
                     img={Petstore}
                     techs='Flexbox + React.JS (ReactSlick)'
@@ -41,25 +47,19 @@ function PortfolioHeader(props) {
                     techs='Bootstrap + React.JS (Lógica)'
                     link='https://filmespicco.netlify.app/'
                 />
+            </div>
+            <div className='row'>
                 <Portfolio
                     title='LP Aulas de Inglês'
                     img={Aulaingles}
                     techs='Materialize + ReactJS (ReactSlick)'
                     link='https://mariadrozina.netlify.app/'
                 />
-            </div>
-            <div className='row'>
                 <Portfolio
                     title='PowerSite Cronometro'
                     img={Cronometro}
                     techs='Flexbox + React.JS (Lógica)'
                     link='https://cronometropicco.netlify.app/'
-                />
-                <Portfolio
-                    title='PowerSite Biscoito Chines'
-                    img={Biscoito}
-                    techs='Materialize + React.JS (Lógica)'
-                    link='https://biscoitosorte.netlify.com/'
                 />
                 <Portfolio
                     title='PowerSite Poupar'
