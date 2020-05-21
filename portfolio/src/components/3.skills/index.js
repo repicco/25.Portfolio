@@ -19,9 +19,11 @@ function Perfil() {
                             <li>HTML5</li>
                             <li>CSS3</li>
                             <li>Javascript + Es6</li>
+                            <li>ReactJS</li>
                             <li>Jquery</li>
                             <li>Bootstrap</li>
                             <li>Materialize</li>
+                            <li>Flexbox</li>
                         </ul>
                         <div className="card-image center-align">
                             <img alt='intermediario' src={Intermediario}></img>
@@ -31,7 +33,6 @@ function Perfil() {
                     <div className='col s12 m5 offset-m1 card'>
                         <h4 className='card-title'><b>Básico</b></h4>
                         <ul className='card-content'>
-                            <li>ReactJS</li>
                             <li>NodeJS</li>
                             <li>Babel</li>
                             <li>PHP</li>

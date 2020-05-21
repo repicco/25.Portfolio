@@ -8,13 +8,13 @@ import Churras from '../../img/portfolio/churras.jpg'
 import Mercado from '../../img/portfolio/mercado.jpg'
 import Airbnb from '../../img/portfolio/airbnb.jpg'
 import Atendi from '../../img/portfolio/atendi.jpg'
-import Orcamento from '../../img/portfolio/orcamento.jpg'
 import Spotify from '../../img/portfolio/spotify.jpg'
-import Parallax from '../../img/portfolio/parallax.jpg'
 import Poupe from '../../img/portfolio/poupedinheiro.jpg'
 import Biscoito from '../../img/portfolio/biscoito.jpg'
 import Cronometro from '../../img/portfolio/cronometro.jpg'
 import Filmes from '../../img/portfolio/filmes.jpg'
+import Aulaingles from '../../img/portfolio/aulaingles.jpg'
+import Petstore from '../../img/portfolio/petstore.jpg'
 
 
 function PortfolioHeader(props) {
@@ -30,34 +30,47 @@ function PortfolioHeader(props) {
 
             <div className="row">
                 <Portfolio
-                    title='App (API) Filmes'
+                    title='LP Pet Store'
+                    img={Petstore}
+                    techs='Flexbox + React.JS (ReactSlick)'
+                    link='https://seri-e.netlify.app/'
+                />
+                <Portfolio
+                    title='PowerSite (API) Filmes'
                     img={Filmes}
                     techs='Bootstrap + React.JS (Lógica)'
                     link='https://filmespicco.netlify.app/'
                 />
                 <Portfolio
-                    title='App Cronometro'
+                    title='LP Aulas de Inglês'
+                    img={Aulaingles}
+                    techs='Materialize + ReactJS (ReactSlick)'
+                    link='https://mariadrozina.netlify.app/'
+                />
+            </div>
+            <div className='row'>
+                <Portfolio
+                    title='PowerSite Cronometro'
                     img={Cronometro}
                     techs='Flexbox + React.JS (Lógica)'
                     link='https://cronometropicco.netlify.app/'
                 />
                 <Portfolio
-                    title='App Biscoito Chines'
+                    title='PowerSite Biscoito Chines'
                     img={Biscoito}
                     techs='Materialize + React.JS (Lógica)'
                     link='https://biscoitosorte.netlify.com/'
                 />
-
-            </div>
-            <div className='row'>
                 <Portfolio
-                    title='App Poupar'
+                    title='PowerSite Poupar'
                     img={Poupe}
                     techs='Materialize + React.JS (Lógica)'
                     link='https://originfinance.netlify.com/'
-                />
+                />             
+            </div>
+            <div className='row'>
                 <Portfolio
-                    title='App Calc Churrasco'
+                    title='PowerSite Calc Churrasco'
                     img={Churras}
                     techs='Bootstrap + Javascript (Lógica)'
                     link='https://churras.netlify.com'
@@ -67,30 +80,21 @@ function PortfolioHeader(props) {
                     img={Mercado}
                     techs='Bootstrap'
                     link='https://mercadofoodservice.net.br/'
-                />              
-            </div>
-            <div className='row'>
+                /> 
                 <Portfolio
                     title='AirBNB (API) Layout'
                     img={Airbnb}
                     techs='Bootstrap + Javascript (consumo de API)'
                     link='https://airbnbfake.netlify.com'
                 />
+            </div>
+            <div className='row'>
                 <Portfolio
                     title='LP Atendimento'
                     img={Atendi}
                     techs='HTML + CSS (Flexbox)'
                     link='https://atenditudo.com.br'
-                /> 
-                <Portfolio
-                    title='App Orçamento'
-                    img={Orcamento}
-                    techs='Bootstrap + JavaScript (Lógica Es6 + Babel)'
-                    link='https://orcamentofake.netlify.com/apporcamento/'
                 />
-              
-            </div>
-            <div className='row'>
                 <Portfolio
                     title='Spotify Layout'
                     img={Spotify}
@@ -102,12 +106,6 @@ function PortfolioHeader(props) {
                     img={Edwcontabil}
                     techs='HTML + CSS'
                     link='http://edwcontabil.com.br/'
-                />
-                <Portfolio
-                    title='Parallax Layout'
-                    img={Parallax}
-                    techs='Html + CSS'
-                    link='https://parallaxex.netlify.com/'
                 />
             </div>            
         </div>
