@@ -32,7 +32,7 @@ function PortfolioHeader(props) {
                 <Portfolio
                     title='Blog Programador'
                     img={Blog}
-                    techs='Flexbox + ReactJS'
+                    techs='Firebase + React.JS + Flexbox'
                     link='https://blogdev.netlify.app/'
                 />
                 <Portfolio
