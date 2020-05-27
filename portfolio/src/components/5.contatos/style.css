@@ -1,21 +1,45 @@
 #card_contatos {
     margin: 0 20px 20px 20px;
   }
+
+  .bk_linkedin {
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 96px;
+    height: 96px;
+    background-color: blue;
+    border-radius: 50%;
+  }
   
   .icon_linkedin {
-    font-size: 96px;
+    font-size: 72px;
+    color: #fff;
+  }
+  
+  .bk_linkedin:hover, .icon_linkedin:hover {
+    background-color: #fff;
     color: blue;
   }
   
-  .icon_linkedin:hover {
-    color: #fa0000;
+  .bk_whatsapp{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 96px;
+    height: 96px;
+    background-color: green;
+    border-radius: 50%;
   }
-  
+
   .icon_whatsapp {
-    font-size: 96px;
-    color: green;
+    font-size: 72px;
+    color: #fff;
   }
   
-  .icon_whatsapp:hover {
-    color: #fa0000;
+  .bk_whatsapp:hover, .icon_whatsapp:hover {
+    background-color: #fff;
+    color: green;
   }

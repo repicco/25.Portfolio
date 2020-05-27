@@ -17,6 +17,11 @@ function Profile() {
                             <h5>Dev. Frontend</h5>
                         </div>
                     </div>
+                    <div className='row card-action center-align'>
+                        <h5>Resumo</h5>
+                        <p>Estudando e realizando trabalhos de Freelancer (1 ano), para transição de carreira na área de Front-end.</p>
+                        <p>13 anos de experiência na Área de TI, atuando com implantação de novas tecnologias, interface com clientes, suporte técnico, planejamento e execução de Projetos de Infraestrutura.</p>
+                    </div>
                 </div>
         </div>
 
