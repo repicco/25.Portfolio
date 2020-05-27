@@ -43,3 +43,8 @@
     background-color: #fff;
     color: green;
   }
+
+  .card-contatos {
+    display: flex;
+    justify-content: center;
+  }
