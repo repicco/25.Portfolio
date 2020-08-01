@@ -7,8 +7,8 @@ import Bonus from '../../img/bonus.jpg'
 
 function Perfil() {
     return (
-        <div className='container'>
-            <div className='card blue-grey lighten-4'>
+        <div id='skill' className='container'>
+            <div  className='card blue-grey lighten-4'>
                 <div className='row card-content'>
                     <div className='col s12 card-title center-align'>
                         <h2>Habilidades</h2>

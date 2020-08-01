@@ -44,8 +44,8 @@ class Header extends Component {
                             <div className='nav-wrapper'>                        
                                 <ul id='ul_btn' className='right'>
                                     <a href='#profile'><li className='btn btn_select'>Perfil</li></a>
-                                    <a href='#portfolio'><li className='btn btn_select'>Portfolio</li></a>
-                                    <a href='#contatos'><li className='btn btn_select'>Contatos</li></a>
+                                    <a href='#skill'><li className='btn btn_select'>Habilidades</li></a>
+                                    <a href='#portfolio'><li className='btn btn_select'>Portfolio</li></a>  
                                 </ul>
                             </div>
                         </nav>

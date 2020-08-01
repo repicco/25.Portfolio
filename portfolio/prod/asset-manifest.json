@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff324a65.chunk.css",
-    "main.js": "/static/js/main.1a49031a.chunk.js",
-    "main.js.map": "/static/js/main.1a49031a.chunk.js.map",
+    "main.css": "/static/css/main.fe3862a0.chunk.css",
+    "main.js": "/static/js/main.3f2ab16c.chunk.js",
+    "main.js.map": "/static/js/main.3f2ab16c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
     "static/js/2.7efa00dd.chunk.js": "/static/js/2.7efa00dd.chunk.js",
     "static/js/2.7efa00dd.chunk.js.map": "/static/js/2.7efa00dd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3e9196ca2671c2108edad1b7fcaa5364.js": "/precache-manifest.3e9196ca2671c2108edad1b7fcaa5364.js",
+    "precache-manifest.fa554c8515d66e583176ae77ac745f3e.js": "/precache-manifest.fa554c8515d66e583176ae77ac745f3e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ff324a65.chunk.css.map": "/static/css/main.ff324a65.chunk.css.map",
+    "static/css/main.fe3862a0.chunk.css.map": "/static/css/main.fe3862a0.chunk.css.map",
     "static/js/2.7efa00dd.chunk.js.LICENSE.txt": "/static/js/2.7efa00dd.chunk.js.LICENSE.txt",
     "static/media/LogoRenatoPicco.png": "/static/media/LogoRenatoPicco.1a948bb0.png",
     "static/media/LogoRenatoPiccoBr.png": "/static/media/LogoRenatoPiccoBr.f1fff318.png",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.ceaf4b5f.js",
     "static/js/2.7efa00dd.chunk.js",
-    "static/css/main.ff324a65.chunk.css",
-    "static/js/main.1a49031a.chunk.js"
+    "static/css/main.fe3862a0.chunk.css",
+    "static/js/main.3f2ab16c.chunk.js"
   ]
 }

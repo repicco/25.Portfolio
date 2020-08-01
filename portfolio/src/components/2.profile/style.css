@@ -21,11 +21,11 @@
   width: 58px;
   height: 58px;
   background-color: blue;
-  border-radius: 25%;
+  border-radius: 50%;
 }
 
 .icon_linkedin {
-  font-size: 46px;
+  font-size: 44px;
   color: #fff;
 }
 
@@ -42,11 +42,11 @@
   width: 58px;
   height: 58px;
   background-color: green;
-  border-radius: 25%;
+  border-radius: 50%;
 }
 
 .icon_whatsapp {
-  font-size: 46px;
+  font-size: 44px;
   color: #fff;
 }
 
