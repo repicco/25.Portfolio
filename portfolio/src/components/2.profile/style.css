@@ -5,3 +5,52 @@
 .img_profile {
   padding-top: 0.5rem;
 }
+
+/* Contatos */
+.contatos {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.bk_linkedin {
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 58px;
+  height: 58px;
+  background-color: blue;
+  border-radius: 25%;
+}
+
+.icon_linkedin {
+  font-size: 46px;
+  color: #fff;
+}
+
+.bk_linkedin:hover, .icon_linkedin:hover {
+  background-color: #fff;
+  color: blue;
+}
+
+.bk_whatsapp{
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 58px;
+  height: 58px;
+  background-color: green;
+  border-radius: 25%;
+}
+
+.icon_whatsapp {
+  font-size: 46px;
+  color: #fff;
+}
+
+.bk_whatsapp:hover, .icon_whatsapp:hover {
+  background-color: #fff;
+  color: green;
+}

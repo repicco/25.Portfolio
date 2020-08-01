@@ -15,6 +15,14 @@ function Profile() {
                         <div className='col s12 m4 offset-m2 center-align'>
                             <img alt='Logo' src={logo} className='img_logo responsive-img'></img>
                             <h5>Dev. Frontend</h5>
+                            <div className='contatos'>
+                                <div className='bk_linkedin'>
+                                    <a target='_blank' rel="noopener noreferrer"  href='https://www.linkedin.com/in/repicco/'><i className="fab fa-linkedin-in icon_linkedin"></i></a>
+                                </div>
+                                <div className='bk_whatsapp'>
+                                    <a target='_blank' rel="noopener noreferrer" href='https://wa.me/5511984944825'><i className="fab fa-whatsapp icon_whatsapp"></i></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div className='row card-action center-align'>

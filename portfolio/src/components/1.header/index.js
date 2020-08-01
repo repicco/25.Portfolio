@@ -33,7 +33,9 @@ class Header extends Component {
                 <div className='container'>
                     <div id='header_row' className='row'>
                         <div className='col s5 m3 brand-logo'>
-                            <img alt='logo' className='img_logo responsive-img' src={logo}></img>
+                            <a href='/'>
+                                <img alt='logo' className='img_logo responsive-img' src={logo}></img>
+                            </a>
                         </div>
                         <div id='div_btnmenu' className='col s1 offset-s4 offset-m6 btn_menu'>
                             <button onClick={this.alterabotao} id='btn_menu' aria-label='botão de menu'><i id='btn_bar' className={this.state.btnimage}></i></button>
