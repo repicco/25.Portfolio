@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fe3862a0.chunk.css",
-    "main.js": "/static/js/main.3f2ab16c.chunk.js",
-    "main.js.map": "/static/js/main.3f2ab16c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
-    "static/js/2.7efa00dd.chunk.js": "/static/js/2.7efa00dd.chunk.js",
-    "static/js/2.7efa00dd.chunk.js.map": "/static/js/2.7efa00dd.chunk.js.map",
+    "main.js": "/static/js/main.4854edfa.chunk.js",
+    "main.js.map": "/static/js/main.4854edfa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.13135219.js",
+    "runtime-main.js.map": "/static/js/runtime-main.13135219.js.map",
+    "static/js/2.613df0a7.chunk.js": "/static/js/2.613df0a7.chunk.js",
+    "static/js/2.613df0a7.chunk.js.map": "/static/js/2.613df0a7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fa554c8515d66e583176ae77ac745f3e.js": "/precache-manifest.fa554c8515d66e583176ae77ac745f3e.js",
+    "precache-manifest.a5c577766e279610b2803da514d0ae1a.js": "/precache-manifest.a5c577766e279610b2803da514d0ae1a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fe3862a0.chunk.css.map": "/static/css/main.fe3862a0.chunk.css.map",
-    "static/js/2.7efa00dd.chunk.js.LICENSE.txt": "/static/js/2.7efa00dd.chunk.js.LICENSE.txt",
+    "static/js/2.613df0a7.chunk.js.LICENSE.txt": "/static/js/2.613df0a7.chunk.js.LICENSE.txt",
     "static/media/LogoRenatoPicco.png": "/static/media/LogoRenatoPicco.1a948bb0.png",
     "static/media/LogoRenatoPiccoBr.png": "/static/media/LogoRenatoPiccoBr.f1fff318.png",
     "static/media/Renato.jpg": "/static/media/Renato.7be9144a.jpg",
@@ -23,6 +23,7 @@
     "static/media/bonus.jpg": "/static/media/bonus.8a238b39.jpg",
     "static/media/churras.jpg": "/static/media/churras.d73308c2.jpg",
     "static/media/cronometro.jpg": "/static/media/cronometro.8313f7c3.jpg",
+    "static/media/cultureFlix.png": "/static/media/cultureFlix.ec8364ab.png",
     "static/media/edwcontabil.jpg": "/static/media/edwcontabil.81dbab06.jpg",
     "static/media/filmes.jpg": "/static/media/filmes.81ef028d.jpg",
     "static/media/mercado.jpg": "/static/media/mercado.c308dcf4.jpg",
@@ -31,9 +32,9 @@
     "static/media/spotify.jpg": "/static/media/spotify.a3d3cb33.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ceaf4b5f.js",
-    "static/js/2.7efa00dd.chunk.js",
+    "static/js/runtime-main.13135219.js",
+    "static/js/2.613df0a7.chunk.js",
     "static/css/main.fe3862a0.chunk.css",
-    "static/js/main.3f2ab16c.chunk.js"
+    "static/js/main.4854edfa.chunk.js"
   ]
 }

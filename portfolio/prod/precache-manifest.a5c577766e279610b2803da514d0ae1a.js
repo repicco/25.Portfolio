@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed907ea4cfb86e7430b49891eef1a4b4",
+    "revision": "d7d51e9c372439230fd810ccfc2716a0",
     "url": "/index.html"
   },
   {
-    "revision": "151dad62289cfdfff582",
+    "revision": "1e090d2f6380f6ec2781",
     "url": "/static/css/main.fe3862a0.chunk.css"
   },
   {
-    "revision": "99710380d7cb2420b52e",
-    "url": "/static/js/2.7efa00dd.chunk.js"
+    "revision": "217980c66e9e5aceff14",
+    "url": "/static/js/2.613df0a7.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.7efa00dd.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.613df0a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "151dad62289cfdfff582",
-    "url": "/static/js/main.3f2ab16c.chunk.js"
+    "revision": "1e090d2f6380f6ec2781",
+    "url": "/static/js/main.4854edfa.chunk.js"
   },
   {
-    "revision": "5284eec07972ace79c95",
-    "url": "/static/js/runtime-main.ceaf4b5f.js"
+    "revision": "30ef98ccc078dcdc8699",
+    "url": "/static/js/runtime-main.13135219.js"
   },
   {
     "revision": "1a948bb032f9194fb4d1a7ad3cd35098",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8313f7c37d2151d35bb5ca82b71532d7",
     "url": "/static/media/cronometro.8313f7c3.jpg"
+  },
+  {
+    "revision": "ec8364ab186e9f614cbd9c325c4d4053",
+    "url": "/static/media/cultureFlix.ec8364ab.png"
   },
   {
     "revision": "81dbab067e57b5334db32037349ce639",

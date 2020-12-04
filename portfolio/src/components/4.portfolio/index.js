@@ -16,6 +16,7 @@ import Filmes from '../../img/portfolio/filmes.jpg'
 import Aulaingles from '../../img/portfolio/aulaingles.jpg'
 import Petstore from '../../img/portfolio/petstore.jpg'
 import Blog from '../../img/portfolio/blog.jpg'
+import Culture from '../../img/portfolio/cultureFlix.png'
 
 
 function PortfolioHeader(props) {
@@ -58,7 +59,13 @@ function PortfolioHeader(props) {
 
             <div className="row card_container">
                 <Slider {...settings}>
-                <Portfolio
+                    <Portfolio
+                        title='Culture Flix'
+                        img={Culture}
+                        techs='JsonServer + React.JS + StyledComponents'
+                        link='https://alura-react-one.vercel.app/'
+                    />
+                    <Portfolio
                         title='Blog Programador'
                         img={Blog}
                         techs='Firebase + React.JS + Flexbox'
@@ -130,8 +137,7 @@ function PortfolioHeader(props) {
                         techs='HTML + CSS'
                         link='http://edwcontabil.com.br/'
                     />
-                </Slider>
-                                    
+                </Slider>                    
             </div>
             <div className='row'>
                             
