@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe3862a0.chunk.css",
-    "main.js": "/static/js/main.4854edfa.chunk.js",
-    "main.js.map": "/static/js/main.4854edfa.chunk.js.map",
+    "main.css": "/static/css/main.76242ce0.chunk.css",
+    "main.js": "/static/js/main.185d5a88.chunk.js",
+    "main.js.map": "/static/js/main.185d5a88.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.13135219.js",
     "runtime-main.js.map": "/static/js/runtime-main.13135219.js.map",
     "static/js/2.613df0a7.chunk.js": "/static/js/2.613df0a7.chunk.js",
     "static/js/2.613df0a7.chunk.js.map": "/static/js/2.613df0a7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a5c577766e279610b2803da514d0ae1a.js": "/precache-manifest.a5c577766e279610b2803da514d0ae1a.js",
+    "precache-manifest.b0f699446cf469063c8d228dad7e92f0.js": "/precache-manifest.b0f699446cf469063c8d228dad7e92f0.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.fe3862a0.chunk.css.map": "/static/css/main.fe3862a0.chunk.css.map",
+    "static/css/main.76242ce0.chunk.css.map": "/static/css/main.76242ce0.chunk.css.map",
     "static/js/2.613df0a7.chunk.js.LICENSE.txt": "/static/js/2.613df0a7.chunk.js.LICENSE.txt",
     "static/media/LogoRenatoPicco.png": "/static/media/LogoRenatoPicco.1a948bb0.png",
     "static/media/LogoRenatoPiccoBr.png": "/static/media/LogoRenatoPiccoBr.f1fff318.png",
@@ -20,12 +20,12 @@
     "static/media/aulaingles.jpg": "/static/media/aulaingles.00237972.jpg",
     "static/media/basico.jpg": "/static/media/basico.93efee67.jpg",
     "static/media/blog.jpg": "/static/media/blog.ab3f37a5.jpg",
+    "static/media/blogvuejs.png": "/static/media/blogvuejs.c38ce7d8.png",
     "static/media/bonus.jpg": "/static/media/bonus.8a238b39.jpg",
     "static/media/churras.jpg": "/static/media/churras.d73308c2.jpg",
     "static/media/cronometro.jpg": "/static/media/cronometro.8313f7c3.jpg",
     "static/media/cultureFlix.png": "/static/media/cultureFlix.ec8364ab.png",
-    "static/media/edwcontabil.jpg": "/static/media/edwcontabil.81dbab06.jpg",
-    "static/media/filmes.jpg": "/static/media/filmes.81ef028d.jpg",
+    "static/media/filmes-vuejs.png": "/static/media/filmes-vuejs.b7341882.png",
     "static/media/mercado.jpg": "/static/media/mercado.c308dcf4.jpg",
     "static/media/petstore.jpg": "/static/media/petstore.84a5cbf9.jpg",
     "static/media/poupedinheiro.jpg": "/static/media/poupedinheiro.1205ac4a.jpg",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.13135219.js",
     "static/js/2.613df0a7.chunk.js",
-    "static/css/main.fe3862a0.chunk.css",
-    "static/js/main.4854edfa.chunk.js"
+    "static/css/main.76242ce0.chunk.css",
+    "static/js/main.185d5a88.chunk.js"
   ]
 }

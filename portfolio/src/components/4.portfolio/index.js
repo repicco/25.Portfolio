@@ -4,7 +4,7 @@ import Slider from "react-slick";
 
 import Portfolio from './portfolioItem'
 
-import Edwcontabil from '../../img/portfolio/edwcontabil.jpg'
+
 import Churras from '../../img/portfolio/churras.jpg'
 import Mercado from '../../img/portfolio/mercado.jpg'
 import Airbnb from '../../img/portfolio/airbnb.jpg'
@@ -12,11 +12,12 @@ import Atendi from '../../img/portfolio/atendi.jpg'
 import Spotify from '../../img/portfolio/spotify.jpg'
 import Poupe from '../../img/portfolio/poupedinheiro.jpg'
 import Cronometro from '../../img/portfolio/cronometro.jpg'
-import Filmes from '../../img/portfolio/filmes.jpg'
 import Aulaingles from '../../img/portfolio/aulaingles.jpg'
 import Petstore from '../../img/portfolio/petstore.jpg'
 import Blog from '../../img/portfolio/blog.jpg'
 import Culture from '../../img/portfolio/cultureFlix.png'
+import FilmesVue from '../../img/portfolio/filmes-vuejs.png'
+import BlogVue from '../../img/portfolio/blogvuejs.png'
 
 
 function PortfolioHeader(props) {
@@ -60,6 +61,18 @@ function PortfolioHeader(props) {
             <div className="row card_container">
                 <Slider {...settings}>
                     <Portfolio
+                        title='Blog Vue'
+                        img={BlogVue}
+                        techs='VueJS + Flex + Firebase'
+                        link='https://piccoblogvuejs.netlify.app/login'
+                    />
+                    <Portfolio
+                        title='Filmaria Vue'
+                        img={FilmesVue}
+                        techs='VueJS + Flex'
+                        link='https://filmes-vuejs.netlify.app/'
+                    />
+                    <Portfolio
                         title='Culture Flix'
                         img={Culture}
                         techs='JsonServer + React.JS + StyledComponents'
@@ -76,12 +89,6 @@ function PortfolioHeader(props) {
                         img={Petstore}
                         techs='Flexbox + React.JS (ReactSlick)'
                         link='https://seri-e.netlify.app/'
-                    />
-                    <Portfolio
-                        title='PowerSite (API) Filmes'
-                        img={Filmes}
-                        techs='Bootstrap + React.JS (Lógica)'
-                        link='https://filmespicco.netlify.app/'
                     />
                     <Portfolio
                     title='LP Aulas de Inglês'
@@ -130,12 +137,6 @@ function PortfolioHeader(props) {
                         img={Spotify}
                         techs='Bootstrap'
                         link='https://spotify-fake.netlify.com'
-                    />
-                    <Portfolio
-                        title='EDW Contabil'
-                        img={Edwcontabil}
-                        techs='HTML + CSS'
-                        link='http://edwcontabil.com.br/'
                     />
                 </Slider>                    
             </div>

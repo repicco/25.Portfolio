@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d7d51e9c372439230fd810ccfc2716a0",
+    "revision": "83290b8eeadd35deb75861ce9dcdcc19",
     "url": "/index.html"
   },
   {
-    "revision": "1e090d2f6380f6ec2781",
-    "url": "/static/css/main.fe3862a0.chunk.css"
+    "revision": "0e20f882e49752045e84",
+    "url": "/static/css/main.76242ce0.chunk.css"
   },
   {
     "revision": "217980c66e9e5aceff14",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.613df0a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e090d2f6380f6ec2781",
-    "url": "/static/js/main.4854edfa.chunk.js"
+    "revision": "0e20f882e49752045e84",
+    "url": "/static/js/main.185d5a88.chunk.js"
   },
   {
     "revision": "30ef98ccc078dcdc8699",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/blog.ab3f37a5.jpg"
   },
   {
+    "revision": "c38ce7d8ed9f9d9e5cb270cab03bd087",
+    "url": "/static/media/blogvuejs.c38ce7d8.png"
+  },
+  {
     "revision": "8a238b39fd49e5128081356d71aaca59",
     "url": "/static/media/bonus.8a238b39.jpg"
   },
@@ -72,12 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cultureFlix.ec8364ab.png"
   },
   {
-    "revision": "81dbab067e57b5334db32037349ce639",
-    "url": "/static/media/edwcontabil.81dbab06.jpg"
-  },
-  {
-    "revision": "81ef028d8052b375237bcdf408677db1",
-    "url": "/static/media/filmes.81ef028d.jpg"
+    "revision": "b734188293ca9fbdef0bb1c79dc29ac9",
+    "url": "/static/media/filmes-vuejs.b7341882.png"
   },
   {
     "revision": "c308dcf47624b64988e921769a4c0cff",

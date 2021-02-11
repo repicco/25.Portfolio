@@ -14,7 +14,7 @@ function Profile() {
                         </div>
                         <div className='col s12 m4 offset-m2 center-align'>
                             <img alt='Logo' src={logo} className='img_logo responsive-img'></img>
-                            <h5>Dev. Frontend</h5>
+                            <h5>Dev. Frontend Pleno</h5>
                             <div className='contatos'>
                                 <div className='bk_linkedin'>
                                     <a target='_blank' rel="noopener noreferrer"  href='https://www.linkedin.com/in/repicco/'><i className="fab fa-linkedin-in icon_linkedin"></i></a>
@@ -27,8 +27,8 @@ function Profile() {
                     </div>
                     <div className='row card-action center-align'>
                         <h5>Resumo</h5>
-                        <p>Estudando e realizando trabalhos de Freelancer (1 ano), para transição de carreira na área de Front-end.</p>
                         <p>13 anos de experiência na Área de TI, atuando com implantação de novas tecnologias, interface com clientes, suporte técnico, planejamento e execução de Projetos de Infraestrutura.</p>
+                        <p>3 anos dedicados na área de Desenvolvimento Frontend, atuando com sistemas em Jquery, Javascript, ReactJS e VueJS</p>
                     </div>
                 </div>
         </div>
